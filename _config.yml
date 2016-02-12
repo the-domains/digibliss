@@ -1,0 +1,28 @@
+name: DIGIBLISS
+favicon: null
+layout_spectrum: 0.02598928799852729
+typography_spectrum: 0.053320826729759574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21779797435738146
+  lightness: 0.6677116719074547
+  saturation: 0.11368471779860556
+  rhythmicContrast: 0.4238742555025965
+purpose: []
